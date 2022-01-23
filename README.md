@@ -2,4 +2,4 @@
 
 Host this on
 
-https://replit.com/~
+https://replit.com
